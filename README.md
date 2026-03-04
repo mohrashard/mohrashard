@@ -13,7 +13,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+AI+Systems+That+Think+at+Scale;From+Neural+Nets+to+Production+SaaS+%E2%80%94+End-to-End;First+Class+%7C+Cardiff+Metropolitan+%7C+2026)](https://git.io/typing-svg)
+**`Building AI Systems That Think at Scale`**  
+**`From Neural Nets to Production SaaS — End-to-End`**  
+**`First Class · Cardiff Metropolitan · 2026`**
 
 <br/>
 
@@ -258,12 +260,6 @@ class MRR:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohrashard&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=666" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohrashard&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" />
 
 </div>
 
